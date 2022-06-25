@@ -15,6 +15,7 @@
 }
 
 .calculator {
+    color: white;
     background-color: #583270;
     padding: 15px;
     border-radius: 30px;
@@ -33,7 +34,7 @@ input{
     box-shadow: 5px 5px 12px rgba(0,0,0,0.16);
     border: none;
     border-radius: 30px;
-    color: rgb(70,70,70);
+    color: white;
     font-size: 50px;
     text-align: end;
     margin: auto;
@@ -43,6 +44,7 @@ input{
 }
 
 button{
+    color: white;
     height: 48px;
     width: 48px;
     background-color: #401E53;
